@@ -5,5 +5,8 @@
 </p>
 
 <p align='center'>
-  I’m loper.
+Crafting objects, spaces and code.
+
+I am a curious and versatile woman with experience in architecture and ecommerce.
+Now, I am excited to transition into Front-end development, where I seek to combine my technical and creative skills to create user-friendly, functional and visually appealing digital products and experiences.
 </p>
