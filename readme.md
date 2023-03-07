@@ -1,7 +1,7 @@
-<h1>Hello there! I'm Ingrid ✨</h1>
+<h1>Hello there! I'm Ingrid </h1>
 
 <p align='center'>
-  Prueba
+  Front-end Developer | Architect | E-Commerce enthusiast | Entrepreneur | Woman in Tech
 </p>
 
 <p align='center'>
